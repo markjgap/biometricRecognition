@@ -1,6 +1,6 @@
 /**
- * Biometric_EarRecognition Project
- * Mark Gapasin, Kyle Jensen
+ * Biometric_EarRecognition
+ * Author: Mark Gapasin
  * Main class that runs the biometric ear recognition program
  */
 
