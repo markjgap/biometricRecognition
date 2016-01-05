@@ -4,3 +4,5 @@
     javac *.java
 - To Run:
     java EarRecognition_Main
+
+See sampleRun1 file for sample usage
